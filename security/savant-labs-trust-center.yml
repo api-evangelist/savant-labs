@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: searched
+source: https://savantlabs.io/trust-center/
+url: https://savantlabs.io/trust-center/
+certifications:
+- SOC 2 Type II
+- GDPR
+- HIPAA
+- AICPA
+- CASA
+evidence:
+- source: https://savantlabs.io/trust-center/
+  quote: "Third-party penetration tests and SOC 2 Type II audits validate security controls."
+legal:
+  terms_of_service: https://savantlabs.io/eula/
+  privacy_policy: https://savantlabs.io/privacy-policy/
+  dpa: https://savantlabs.io/dpa/

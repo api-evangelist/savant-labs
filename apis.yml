@@ -1,7 +1,17 @@
 aid: savant-labs
 name: Savant Labs
-description: Savant Labs is a company surfaced as a portfolio company of bloomberg-beta and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Savant Labs is an agentic AI platform for business analytics, finance, and
+  data automation. It turns AI conversations into governed, audit-ready agents
+  that automate regulated finance workflows such as month-end close,
+  reconciliations, tax automation, and financial consolidation, with human
+  review and audit-ready evidence. The no-code platform combines data
+  preparation, blending, cleansing, automation, and a Vision Agent that extracts
+  data from PDFs and images, connecting to ERPs (SAP, Oracle, NetSuite), data
+  warehouses, BI tools, and spreadsheets through hundreds of pre-built
+  connectors. Savant Labs is SOC 2 Type II certified with GDPR and HIPAA support,
+  and is used by teams at Dell Technologies, ConocoPhillips, and Rover. It was
+  surfaced as a portfolio company of Bloomberg Beta.
 url: https://raw.githubusercontent.com/api-evangelist/savant-labs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +19,31 @@ x-backed-by:
 - bloomberg-beta
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://savantlabs.io/wp-content/uploads/2025/10/home-banner-new.webp
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Analytics
+- Automation
+- Agentic AI
+- Finance
+- Data Preparation
+- No-Code
+- Business Intelligence
+- Tax Automation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,38 @@ maintainers:
 common:
 - type: Website
   url: https://www.savantlabs.io/
+- type: Documentation
+  url: https://help.savantlabs.io/en/collections/3345890-product-walkthrough
+- type: Support
+  url: https://help.savantlabs.io/en/
+- type: HelpCenter
+  url: https://help.savantlabs.io/en/
+- type: Blog
+  url: https://savantlabs.io/blog/
+- type: Pricing
+  url: https://savantlabs.io/pricing/
+- type: SignUp
+  url: https://app.savantlabs.io/en/signup/
+- type: Login
+  url: https://app.savantlabs.io/en/login
+- type: TermsOfService
+  url: https://savantlabs.io/eula/
+- type: PrivacyPolicy
+  url: https://savantlabs.io/privacy-policy/
+- type: TrustCenter
+  url: https://savantlabs.io/trust-center/
+- type: Compliance
+  url: https://savantlabs.io/trust-center/
+- type: ChangeLog
+  url: changelog/savant-labs-changelog.yml
+- type: LLMsTxt
+  url: llms/savant-labs-llms.txt
+- type: Conformance
+  url: conformance/savant-labs-conformance.yml
+- type: DomainSecurity
+  url: security/savant-labs-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

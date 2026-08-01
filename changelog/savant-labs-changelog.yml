@@ -1,0 +1,33 @@
+generated: '2026-07-21'
+method: searched
+source: https://help.savantlabs.io/en/ (What's New) / https://help.savantlabs.io/llms.txt
+scheme: monthly-release-notes
+note: >-
+  Savant Labs publishes dated monthly product update notes in its help center
+  "What's New" section. No public developer API is versioned; these are
+  platform/product release notes. Recent window captured below.
+entries:
+- date: '2026-02'
+  title: February 2026
+  highlights: New connector capabilities, Vault enhancements, and simpler agent workflows
+  url: https://help.savantlabs.io/en/articles/14006555-february-2026
+- date: '2026-01'
+  title: January 2026 Updates
+  highlights: 'More choice, more power: Google Gemini joins Savant'
+  url: https://help.savantlabs.io/en/articles/13600951-january-2026-updates
+- date: '2025-12'
+  title: December 2025 Updates
+  highlights: Easily navigate between runs
+  url: https://help.savantlabs.io/en/articles/13014599-december-2025-updates
+- date: '2025-11'
+  title: November 2025 Updates
+  highlights: Control inputs and clean up outputs with SFTP subfolders and smoother text output
+  url: https://help.savantlabs.io/en/articles/12745509-november-2025-updates
+- date: '2025-10'
+  title: October 2025 Updates
+  highlights: Smarter agents, sharper functions, smoother flows
+  url: https://help.savantlabs.io/en/articles/12573680-october-2025-updates
+- date: '2025-09'
+  title: September 2025 Updates
+  highlights: Oracle Fusion reports, Explode tool update, Decode base64, and SSO enhancements
+  url: https://help.savantlabs.io/en/articles/12167020-september-2025-updates

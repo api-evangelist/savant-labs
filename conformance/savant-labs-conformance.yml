@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.savantlabs.io/
+note: >-
+  Savant Labs is a no-code agentic analytics/automation platform. It does not
+  publish a public developer REST API or OpenAPI specification, so cross-cutting
+  API technical standards (oauth2, oidc, rfc9457, json:api, pagination) cannot be
+  asserted. The entries below capture the security/compliance posture the company
+  publishes on its marketing site.
+standards:
+- id: soc2-type-ii
+  conforms: true
+  evidence: "savantlabs.io states 'SOC 2 Type II certified'"
+- id: gdpr
+  conforms: true
+  evidence: "savantlabs.io states GDPR support"
+- id: hipaa
+  conforms: true
+  evidence: "savantlabs.io states HIPAA support"
+- id: sso-saml
+  conforms: true
+  evidence: "Help center documents SSO / SAML and Entra ID / OAuth authorization providers"
+- id: oauth2
+  conforms: false
+  evidence: "No public developer API or OpenAPI declaring oauth2 securitySchemes"
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: "No public developer API"
