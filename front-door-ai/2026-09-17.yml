@@ -1,0 +1,36 @@
+# Front Door AI Index — savant-labs — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: savant-labs
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.savantlabs.io
+  final_host: savantlabs.io
+  ownership: own
+  owner: savant-labs
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 63
+  host_score: 63
+  density: 24.02
+  words: 2623
+  tiers:
+    agentic: 9
+    core: 47
+    model: 7
+  ambiguous: 33
+  top_terms:
+    AI: 44
+    agent: 25
+    automation: 7
+    Claude: 4
+    AI agent: 3
+    ChatGPT: 3
+    copilot: 3
+    agentic: 2
+    gen ai: 2
+    inference: 1
+    intelligence: 1
+    machine learning: 1
